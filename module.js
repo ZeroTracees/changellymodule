@@ -1,1 +1,1 @@
-console.log('test');
+var x = 1;
